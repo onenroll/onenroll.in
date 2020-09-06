@@ -1,0 +1,12 @@
+input{
+    margin: 5px;
+    border: rounded;
+}
+.input-feild{
+    padding: 10px;
+    display: flex;
+}
+.signin{
+    margin-bottom: 10px;
+
+}
