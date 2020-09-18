@@ -1,0 +1,98 @@
+@media (max-device-width:1224px){
+   
+    
+   .password-feild {
+    width:328px !important; 
+  
+    height: 50px;
+   }
+   .email-feild{
+       width: 328px !important;
+       
+       height: 50px !important;
+   }
+   .sigin-form{
+       margin-right: 16px;
+       margin-left: 5% !important;
+   }
+   .below-input{
+       margin-top: 13px ;
+   }
+   .mu{
+       margin-top: -40% !important;
+   }
+   .icon{
+    size: 100px;
+    cursor: pointer;
+    float: right;
+    position: absolute;
+    margin-top:-40px;
+    right: 20px !important;
+    border-block-color: black;
+    
+}
+.ca{
+    margin-left: 10% !important;
+}
+
+}
+.ca{
+    margin-left: 18% !important;
+    margin-bottom: 1px !important;
+}
+.fp{
+    margin-right: -20px;
+   
+}
+.rb{
+    margin-left: -20px;
+}
+.forgot{
+    margin-top: 10px !important;
+    float: right;
+    
+}
+.remainder-text{
+    
+    margin: 15px;
+    position: relative;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 18px;
+    color: rgba(50, 50, 50, 0.5);
+
+
+}
+
+.password-feild {
+    width: 415px ;  
+   
+
+}
+.sigin-form{
+    margin-left: 18%;
+    padding-right: 5%;
+}
+.d{
+    align-items: center;
+}
+.email-feild{
+    height: 50px;
+    width: 415px ; 
+    padding: 20%;
+}
+.icon{
+    size: 200px;
+    cursor: pointer;
+    float: right;
+    position: absolute;
+    margin-top:-40px;
+    right: 50px;
+    border-block-color: black;
+    
+}
+.below-heading{
+    margin-left: 13%  !important;
+}

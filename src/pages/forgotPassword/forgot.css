@@ -1,0 +1,28 @@
+@media (max-device-width:1224px){
+.bottom{
+    margin-right: 16px !important;
+    margin-left: 16px !important;
+    padding: 0px !important;
+}
+#email{
+    width: 290px !important;
+}
+
+.rememberdPassword{
+    margin-top: 200px !important;
+}
+
+}
+#email{
+    width: 386px;
+    height: 13px;
+}
+
+.forgotPassowrd{
+    
+    padding: 12px 20px;
+    margin-bottom: 10px;
+   border: 2px solid #EFEEF4;
+   box-sizing: border-box;
+border-radius: 8px;
+}

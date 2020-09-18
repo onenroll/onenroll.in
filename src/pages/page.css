@@ -1,3 +1,25 @@
+/* Margin in mobile device on either side should be 16px */
+@media (max-device-width:1224px){
+    
+    body {
+        margin: 0px;
+        padding: 0px;
+     }
+    .right-side{
+        padding-right: 1% !important;
+        padding-left: 1% !important;
+        margin-right: 16px !important;
+        margin-left: 16px !important;
+    }
+    
+   h6{
+    margin: 10px 0 5px !important; 
+   }
+   
+    
+     
+}
+
 input{
     margin: 5px;
     border: rounded;
@@ -10,3 +32,27 @@ input{
     margin-bottom: 10px;
 
 }
+
+
+h6 {
+    margin-top: 3px !important;
+    width: 100%; 
+    text-align: center;
+    color:  rgba(50, 50, 50, 0.75);
+    border: 1px solid #EFEEF4; 
+    line-height: 0.1em;
+    margin-left: -8%; 
+    background-color: #fafafa;
+ } 
+ 
+ h6 span { 
+     background:#fafafa; 
+     padding:0 10px; 
+ }
+
+ 
+
+
+ 
+ 
+ 

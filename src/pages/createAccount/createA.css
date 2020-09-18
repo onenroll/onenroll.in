@@ -1,0 +1,67 @@
+@media (max-device-width:1224px){
+    .createAccount{
+        margin-left: 16px !important;
+        margin-right: 0px !important;
+    }
+    .phoneNumber{
+        width: 315px !important;
+    }
+    .email{
+        width: 315px;
+    }
+    .lastName{
+       width: 154px !important;
+       margin-left: -13% !important ;
+      
+    }
+    .firstName{
+        width: 154px !important;
+
+    }
+    .password{
+       width: 154px !important;
+       height: 44px;
+    }
+    .confirmPassword{
+        width: 154px !important;
+        margin-bottom: 20px !important;
+        font-size: 14px;
+        margin-left: -13% !important;
+    }
+
+}
+*{
+    margin: 0px;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.createAccount{
+    margin-left: 18%;
+}
+.firstName{
+    width: 198px;
+
+}
+below-heading{
+    margin-left: 40px !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lastName{
+    margin-left: -23% !important  ;
+    width: 198px;
+}
+.phoneNumber{
+    width: 415px;
+}
+.password{
+    margin-bottom: 18px !important;
+}
+.confirmPassword{
+    width: 415px;
+    margin-bottom: 20px !important;
+}

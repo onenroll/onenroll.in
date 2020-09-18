@@ -1,0 +1,66 @@
+@media(max-device-width:1224px){
+    
+    .otp{
+    
+        width: 30px !important;
+        border: 1px solid #323232;
+        text-align: center;
+        border-top: 0ch;
+        border-left: 0ch;
+        margin-right: 3px !important;
+        border-right: 0ch;
+        
+    }
+    .rememberdPassword{
+        margin-top: -15px !important;
+        color: rgba(50, 50, 50, 0.75);
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+    
+        align-items: center;
+    
+    
+    }
+    .otp-screen{
+        margin-left: 16px !important;
+        margin-right: 16px !important;
+    }
+    .otp-button{
+        margin-top: 12px;
+        margin-left: -15px !important;
+    }
+    .em{
+        margin-top: -27% !important;
+    }
+}
+.otp{
+    
+    width: 42px !important;
+    border: 1px solid #323232;
+    text-align: center;
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    }
+.rememberdPassword{
+        margin-top: 5px;
+        color: rgba(50, 50, 50, 0.75);
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+    
+        align-items: center;
+    
+    
+    }
+    .error{
+        color: red;
+        float: right;
+        font-size: larger;
+        font-weight: 600;
+    }

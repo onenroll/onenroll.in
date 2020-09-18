@@ -1,16 +1,122 @@
+
+@media (max-device-width:1224px){
+
+    .password-meter{
+        background: #FFFFFF;
+        font-size: 11px;
+        width: 160px;
+        margin-top: -25px;
+        margin-left: 30px;
+        z-index: 1;
+        /* Rich Electric Blue */
+        border: 1px solid #0596DA;
+        box-sizing: border-box;
+        border-radius: 8px;
+
+    }
+    .button{
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        width: 328px !important;
+        align-items: center;
+        background: linear-gradient(90deg, #0596DA 0%, #59C2EF 100%);
+        border-radius: 8px;
+        color: #FFFFFF;
+      
+        
+        
+        }
+        
+
+    
+}
+
+
+
 .button{
     
 
 font-family: Source Sans Pro;
 font-style: normal;
-margin-bottom: 10px;
+margin-bottom: 5px !important;
 font-size: 24px;
 line-height: 30px;
 text-align: center;
-/* identical to box height */
 
+    
+width: 415px;
 align-items: center;
-
+background: linear-gradient(90deg, #0596DA 0%, #59C2EF 100%);
+border-radius: 8px;
 /* White */
 color: #FFFFFF;
+
 }
+ul{
+    list-style-type: none;
+    margin: 5px;
+}
+.password-meter{
+   
+    background: #FFFFFF;
+    margin-top: -25px;
+    margin-left: 30px;
+    z-index: 1;
+/* Rich Electric Blue */
+border: 1px solid #0596DA;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.logo-style{
+    background: #3B5998 !important;
+    border-radius: 4px 0px 0px 4px !important;
+    
+    float: left;
+    padding:8px;
+   
+ }
+ #b{
+    background: rgba(59, 89, 152, 0.9);
+    border-radius: 0px 4px 4px 0px;
+    vertical-align: bottom;
+    padding: 2px;
+    width: 415px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+ }
+ .facebook-button,google-button{
+     
+     float: left;
+     margin-left: 10px;
+     font-family: Source Sans Pro !important;
+     padding-top: 2px;
+     vertical-align: middle;
+    
+ }
+ #a{
+    background: rgba(219, 68, 55, 0.9);
+    border-radius: 0px 4px 4px 0px;
+    width: 415px;
+    left: 13.25% !important; 
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    margin-top: 10px;
+ }
+ .google-button{
+    float: left;
+    margin-left: 10px;
+    font-family: Source Sans Pro !important;
+    padding-top: 2px;
+   
+}
+ .google-style{
+    background: #DB4437;
+    border-radius: 4px 0px 0px 4px;
+    float: left;
+    padding:4px;
+   
+ }

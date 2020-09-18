@@ -12,6 +12,7 @@ export default function Images(props) {
         <div >
         
             <img src ={url} className ={props.className} alt =" placeholder"></img>
+            
         </div>
         
     )
